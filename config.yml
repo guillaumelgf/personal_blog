@@ -1,0 +1,34 @@
+baseURL: "https://guillaume-lgf.netlify.app/"
+title: Guillaume Le Goff
+theme: [PaperMod]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+params:
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  hideFooter: true
+
+  homeInfoParams:
+    Title: "Hi everyone !"
+    Content: >
+      I am a Software Engineer based in Paris and this is a simple blog to gather quick projects I am experimenting on
+      
+      
+      The guideline for all these projects is to try as many new things as possible on small projects to learn new stuffs, so the projects are mindfully not polished :wink:
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/guillaumelgf"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/legoffguillaume/"
+    - name: email
+      url: "mailto:guillaume.lgf@gmail.com"

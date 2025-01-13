@@ -12,6 +12,7 @@ minify:
   disableXML: true
 
 params:
+  env: production
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
@@ -32,6 +33,8 @@ params:
       url: "https://www.linkedin.com/in/legoffguillaume/"
     - name: email
       url: "mailto:guillaume.lgf@gmail.com"
+
+  googleAnalytics: "G-811DYZM3S4"
 
 markup:
   goldmark:

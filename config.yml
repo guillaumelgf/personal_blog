@@ -32,3 +32,8 @@ params:
       url: "https://www.linkedin.com/in/legoffguillaume/"
     - name: email
       url: "mailto:guillaume.lgf@gmail.com"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

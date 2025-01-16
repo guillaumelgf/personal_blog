@@ -4,7 +4,7 @@
 
 This is the source code for my personal blog, built with [Hugo](https://gohugo.io/) and deployed on [Netlify](https://www.netlify.com/).
 
-**You can view the blog** : [here](https://guillaume-lgf.netlify.app/)
+**You can view the blog** : [here](https://guillaume-lgf.fr/)
 
 ## Features
 

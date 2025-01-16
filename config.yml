@@ -1,4 +1,4 @@
-baseURL: "https://guillaume-lgf.netlify.app/"
+baseURL: "https://guillaume-lgf.fr/"
 title: Guillaume Le Goff
 theme: [PaperMod]
 
@@ -26,6 +26,9 @@ params:
       
       The guideline for all these projects is to try as many new things as possible on small projects to learn new stuffs, so the projects are mindfully not polished :wink:
 
+  assets:
+    favicon: "/images/icon.ico"
+  
   socialIcons:
     - name: github
       url: "https://github.com/guillaumelgf"
